@@ -1,4 +1,4 @@
-#@robocyber
+#@humblelad
 import urllib2
 from bs4 import BeautifulSoup
 page = "https://wordsmith.org/words/today.html"
